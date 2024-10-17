@@ -203,12 +203,12 @@ img {
 @media screen and (max-width : 600px) 
 {
     h1,h2,h3,h4,h5,h6 {
-       font-size: small;
+       font-size: medium;
        line-height: 50px;
 }
 
 .link-custom {
-    font-size: medium;
+    font-size: small;
     font-weight: 36px;
     position: relative;
 }
