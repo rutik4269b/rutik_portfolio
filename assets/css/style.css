@@ -208,6 +208,7 @@ img {
 }
 
 .link-custom {
+    font-size: medium;
     font-weight: 36px;
     position: relative;
 }
