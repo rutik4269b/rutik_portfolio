@@ -206,4 +206,9 @@ img {
        font-size: small;
        line-height: 50px;
 }
+
+.link-custom {
+    font-weight: 36px;
+    position: relative;
+}
 }
